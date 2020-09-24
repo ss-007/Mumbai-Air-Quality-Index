@@ -1,4 +1,4 @@
-Project on 'Air Quality Index Prediction'
+## Project on 'Air Quality Index Prediction'
 
 In this, the prediction of PM2.5 was done by analysing precious 6 years data. Following steps were involved-
 
